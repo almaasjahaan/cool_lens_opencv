@@ -24,7 +24,7 @@ NumPy – for numerical operations and array handling
 
 5)Place it on the face
 ## input image
-<img width="472" height="180" alt="mine" src="https://github.com/user-attachments/assets/b4acdf53-e501-4cef-927b-087570b8c409" />
+<img width="472" height="280" alt="mine" src="https://github.com/user-attachments/assets/b4acdf53-e501-4cef-927b-087570b8c409" />
 
 ## sunglasses
 <img width="627" height="273" alt="gass" src="https://github.com/user-attachments/assets/11e9a8c8-dadd-4762-87a5-721923a8c307" />
